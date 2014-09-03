@@ -1,0 +1,27 @@
+GROUP MEMBERS:
+    Justin Kwok
+    Ian Hamilton
+    Yugraj Singh
+    Benjamin Lieu
+    Greg Arnheiter
+    
+Build Instructions:
+    1) Copy your test file into our test file and run the Makefile
+    2) Edit the Makefile to include your test file by removing all instances of
+        a) Target
+        b) slug_test.c
+        c) slug_test.o
+    3) Make sure that slug_header.h is included in the test file so that the preprocessor
+       can make the necessary macros for malloc(), free(), etc.
+    
+Files Included:
+    slug_malloc.h
+    slug_malloc.c
+    linked_list.h
+    linked_list.c
+    slug_header.h
+    Makefile
+    README
+    
+Run Instructions:
+    Run the executable after folling build instructions

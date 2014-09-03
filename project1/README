@@ -1,0 +1,21 @@
+Yugraj Singh
+CS111
+Asg1: Shell
+
+Files Included:
+README
+Makefile
+shell.c
+lex.c
+
+To compile program type 'make' and to run  enter './shell'.
+
+Program Description: 
+	This is simple shell that can handle file redirection, changing 
+	directories and have processes run in the background. This 
+	program assumes the user has some understanding on using
+	a shell. Also piping is not implemented.
+
+
+
+
